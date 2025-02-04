@@ -1,6 +1,6 @@
 # PFPHub - Best Profile Pictures for Discord, TikTok, Anime & More
 
-![PFPHub - Profile Pictures Collection](https://pfphub.com/logo.png)
+![PFPHub - Profile Pictures Collection](https://pfphub.com/images/logo.png)
 
 ## About PFPHub
 [PFPHub](https://pfphub.com/) is your ultimate destination for finding the best **PFP** (profile pictures) for Discord, TikTok, Instagram, Twitter, and other social media platforms. Whether you're looking for **anime PFPs, aesthetic PFPs, cool PFPs, cute PFPs, or matching PFPs**, we have a vast collection to suit every style.
